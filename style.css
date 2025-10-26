@@ -1,0 +1,20 @@
+/*
+Theme Name: Astra Child
+Template: astra
+Version: 1.0.0
+Text Domain: astra-child
+Description: Thème enfant basé sur Astra (footer personnalisé).
+*/
+
+/* Ton CSS perso ici au besoin */
+
+.footer-grid{
+  display:grid;
+  gap:24px;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  margin:24px 0;
+}
+.footer-col h4{ margin:0 0 8px; font-size:1.05rem; }
+.footer-col ul{ list-style:none; padding:0; margin:0; }
+.footer-col ul li{ margin:6px 0; }
+.copy{ margin-top:12px; opacity:.8; }
