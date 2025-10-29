@@ -140,4 +140,4 @@ Ce fichier :
 - Injecte un nouveau footer HTML personnalisé via une fonction dédiée.
 
 
-#### [👉 Suite (Qu'est-ce qu'un hook)](trouver-les-hooks.md)
+#### [👉 Suite (Qu'est-ce qu'un hook)](hook.md)
