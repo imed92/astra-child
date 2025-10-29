@@ -138,4 +138,6 @@ Ce fichier :
 - Charge le CSS du child après celui du parent.  
 - Supprime le footer d’origine d’Astra.  
 - Injecte un nouveau footer HTML personnalisé via une fonction dédiée.
-```
+
+
+#### [👉 Suite (Qu'est-ce qu'un hook)](cours/trouver-les-hooks.md)

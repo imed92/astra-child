@@ -74,3 +74,5 @@ add_filter('the_title', function($title) {
 > 🎓 C’est le **meilleur** moyen de personnaliser WordPress proprement !
 
 ---
+
+#### [👉 Suite (Qu'est-ce qu'une action ?')](cours/actions-wp.md)

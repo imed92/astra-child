@@ -32,3 +32,4 @@ Voici une sélection d’actions (« hooks ») fréquemment utilisées dans Word
 - Consulte la documentation officielle : [Action Hook Reference – WordPress Developer Resources](https://developer.wordpress.org/apis/hooks/action-reference/) :contentReference[oaicite:0]{index=0}  
 - Pour obtenir **tous** les hooks (actions + filtres) : [List of all WP action/filter hooks](https://adambrown.info/p/wp_hooks/) :contentReference[oaicite:1]{index=1}  
 
+#### [👉 Suite (Qu'est-ce qu'un hook ?')](cours/trouver-les-hooks.md)
