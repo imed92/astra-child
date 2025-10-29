@@ -6,7 +6,7 @@
 
 ---
 
-🎓 **TP : Personnaliser un thème WordPress avec un Thème Enfant**
+# 🎓 **TP : Personnaliser un thème WordPress avec un Thème Enfant**
 
 ---
 
