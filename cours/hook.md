@@ -75,4 +75,4 @@ add_filter('the_title', function($title) {
 
 ---
 
-#### [👉 Suite (Qu'est-ce qu'une action ?')](cours/actions-wp.md)
+#### [👉 Suite (Qu'est-ce qu'une action ?')](actions-wp.md)
