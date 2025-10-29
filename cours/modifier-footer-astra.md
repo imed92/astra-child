@@ -1,4 +1,4 @@
-# Explication détaillée du fichier `functions.php` du thème enfant Astra
+# Comment modifier le footer du thème enfant Astra
 
 ```php
 <?php
